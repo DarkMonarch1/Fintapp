@@ -1,0 +1,7 @@
+.idea
+.vscode
+**/desktop.ini
+bin/
+Fintapp.exe
+fintapp-mfs.jar
+launch4j.log
